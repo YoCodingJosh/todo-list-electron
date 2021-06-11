@@ -4,8 +4,7 @@
   "description": "Angular 12 with Electron (Typescript + SASS + Hot Reload)",
   "homepage": "https://github.com/maximegris/angular-electron",
   "author": {
-    "name": "Maxime GRIS",
-    "email": "maxime.gris@gmail.com"
+    "name": "Josh Kennedy"
   },
   "keywords": [
     "angular",
@@ -18,7 +17,9 @@
     "sass",
     "windows",
     "mac",
-    "linux"
+    "linux",
+    "todo list",
+    "todo"
   ],
   "main": "app/main.js",
   "private": true,
